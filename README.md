@@ -1,0 +1,2 @@
+# huffman
+Huffman algorithm implementation
